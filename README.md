@@ -1,5 +1,7 @@
 # ymt2-soundtrack
-Soundtrack of Yamato (Japanese-style slot game in South Korea)
+Soundtrack of Yamato2 (Japanese-style slot game in South Korea)
+- Soundtrack
+- Movietrack
 
 # Korean
 도박중독 예방 캠페인
